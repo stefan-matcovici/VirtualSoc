@@ -1,0 +1,3 @@
+[submodule "lumen-messenger-api"]
+	path = lumen-messenger-api
+	url = https://github.com/cmgmyr/lumen-messenger-api
